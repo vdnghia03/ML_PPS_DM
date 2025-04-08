@@ -10,7 +10,7 @@ Script Purpose
 	- Những hàm basic
 	- Sử dụng chia partition by, chia order by, chia frame
 	- Kết hợp window function với group by
-
+	- Tìm hiểu Lead lag
 ===============================
 */
 
